@@ -1,6 +1,6 @@
 ### Olá, sou o Lucas Gomes ✌️
 
-- 👨‍💻 Hoje sou Estágiario em Desenvolvimento de Software  
+- 👨‍💻 Hoje sou Estagiário em Desenvolvimento de Software  
 - 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e também buscando conhecimento em outros cursos por fora sobre desenvolvimento.
 
 <div align="center">
